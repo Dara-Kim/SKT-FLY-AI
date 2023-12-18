@@ -1,7 +1,7 @@
 # SKT FLY AI 4기
 
+SKT FLY AI 4기 기록</br>
 https://www.skttechacademy.com/student/main </br>
-SKT FLY AI 4기
 
 ### 231218
 1. Python Basics(김용욱 교수님) </br>
